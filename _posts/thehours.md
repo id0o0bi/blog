@@ -6,7 +6,7 @@ published: false
 tags: movie life
 ---
 
-![Virginia&Leonerd](assets/post-images/post.jpg)
+![Virginia&Leonerd](assets/post-images/Virginia&Leonerd.jpg)
 
 她选择了离去，留下一封短信
 > Dear Leonard... 　　
