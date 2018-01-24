@@ -1,9 +1,9 @@
 ---
-date: 2018-01-03
-title: linux网络代理抓包工具折腾记 - mitmproxy
-permalink: meetmitmproxy.html
-published: false
-tags: tech api
+layout: post
+title:  "linux网络代理抓包工具折腾记 - mitmproxy"
+date:   2018-01-03 16:16:01 +0800
+categories: tech api
+permalink: /blog/:year:month:day-meetmitmproxy.html
 ---
 
 前段时间一直在给移动端写接口，一直没有找到linux下面趁手的代理抓包工具
