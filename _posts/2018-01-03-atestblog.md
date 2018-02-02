@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "how to proxy - mitmproxy"
 date:   2018-01-03 16:16:01 +0800
 categories: tech api
