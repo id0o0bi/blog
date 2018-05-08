@@ -3,7 +3,7 @@ layout: page
 title:  "MySQL 隐式类型转换的一些实验"
 date:   2018-02-01 10:12:01 +0800
 category: tech mysql database
-permalink: /blog/:year:month:day-mysqlimplicitetypeconversion.html
+permalink: mysqlimplicitetypeconversion.html
 ---
 
 ```

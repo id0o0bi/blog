@@ -3,7 +3,7 @@ layout: page
 title:  "linux网络代理抓包工具折腾记 - mitmproxy"
 date:   2018-01-03 16:16:01 +0800
 category: tech api
-permalink: /blog/:year:month:day-meetmitmproxy.html
+permalink: meetmitmproxy.html
 ---
 
 前段时间在给移动端写接口，一直没有找到linux下面好用的代理抓包工具  

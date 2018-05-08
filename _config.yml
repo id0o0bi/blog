@@ -2,9 +2,9 @@ title: CARPE DIEM
 theme: minima
 paginate: 8
 url: id0o0bi.github.com
+plugins: [jekyll-paginate]
 feed: no
 author: id0o0bi
-aubout:  a single man
 follow: id0o0bi
 indexContent: true
 blogName: id0o0bi
