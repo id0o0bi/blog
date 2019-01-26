@@ -19,7 +19,7 @@ permalink: jigsolver.html
 * 将剩余的图片填充进打分片
 
 我用上面的方法，已经人肉拼完了《日本桥》，接下来睡莲1500片，必需用CV协助解决了。
-![bridge](/assets/post-images/jigsolver/bridge.jpeg)
+<!-- ![bridge](/assets/post-images/jigsolver/bridge.jpeg) -->
 
 ### 现成的解决方案？
 
@@ -70,3 +70,10 @@ Step 1 到这里可以说阶段性的完成了，当然全部的拼片我还没�
 简单看了下ICP算法，居然是应用在三维曲面拟合的算法，所以在二维环境里也可以适用，不过目前看到的方法也都是计算方差，貌似和机器学习的梯度下降很相似啊。而且同样存在局部最优解问题。搜到几篇二维应用的文章，还在探索中。
 
 #### Step 3. 多块拼图如何处理
+
+
+### PS:
+发现两篇研究这个课题的论文：  
+`Stanford` [Using Computer Vision to Solve Jigsaw Puzzles](https://web.stanford.edu/class/cs231a/prev_projects_2016/computer-vision-solve__1_.pdf)   
+`Springer` [An Innovative Algorithm for Solving Jigsaw Puzzles
+Using Geometrical and Color Features](https://link.springer.com/content/pdf/10.1007%2F11578079_99.pdf)
