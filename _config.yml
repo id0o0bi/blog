@@ -1,5 +1,5 @@
 title: CARPE DIEM
-theme: jekyll-theme-leap-day
+theme: minima
 paginate: 8
 url: id0o0bi.github.com
 plugins: [jekyll-paginate]
